@@ -13,6 +13,7 @@ type Welcome struct {
 }
 
 func main() {
+	// := means that Golang guess which type of varialbe
 	welcome := Welcome{"Sale Begins Now", time.Now().Format(time.Stamp)}
 	template := template.Must(template.ParseFiles("template/template.html"))
 
