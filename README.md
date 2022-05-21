@@ -8,6 +8,8 @@
     6. [Golang 流程控制 - for 迴圈基礎 By 彭彭](https://www.youtube.com/watch?v=u3DPQ7tdynw&list=PL-g0fdC5RMbo9bdRzbKaCWYC2mXg2eEZE&index=6)
     7. [Golang 流程控制 - for 迴圈中的 break 和 continue 命令 By 彭彭](https://www.youtube.com/watch?v=MDXGIKkDg1c&list=PL-g0fdC5RMbo9bdRzbKaCWYC2mXg2eEZE&index=7)
 
+* GIN Web Framework
+
 # Setup
 ```bash
 x: Extract, z: Unzip, v: Verbose, f: File output
