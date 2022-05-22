@@ -11,6 +11,10 @@
     7. [Golang 流程控制 - for 迴圈中的 break 和 continue 命令 By 彭彭](https://www.youtube.com/watch?v=MDXGIKkDg1c&list=PL-g0fdC5RMbo9bdRzbKaCWYC2mXg2eEZE&index=7)
     8. [Golang 函式基礎 - 函式的定義, 呼叫, 與參數 By 彭彭](https://www.youtube.com/watch?v=PftKHp7r7W8&list=PL-g0fdC5RMbo9bdRzbKaCWYC2mXg2eEZE&index=8)
     9. [Golang 函式回傳值 - 命令 return 的用法 By 彭彭](https://www.youtube.com/watch?v=DsH867OY2YA&list=PL-g0fdC5RMbo9bdRzbKaCWYC2mXg2eEZE&index=9)
+    10. [Golang 指標基礎 Pointer - 記憶體位址、指標變數與資料型態、反解指標 By 彭彭](https://www.youtube.com/watch?v=SC8MPfhh9_8&list=PL-g0fdC5RMbo9bdRzbKaCWYC2mXg2eEZE&index=10)
+    11. [Golang 指標參數 - Pass by Pointer 和 Pass by Value 函式參數傳遞 By 彭彭](https://www.youtube.com/watch?v=k_E9FCehyz4&list=PL-g0fdC5RMbo9bdRzbKaCWYC2mXg2eEZE&index=11)
+    12. [Golang 結構基礎 Struct - 定義、實體化結構 By 彭彭](https://www.youtube.com/watch?v=KFNgPTgXpBU&list=PL-g0fdC5RMbo9bdRzbKaCWYC2mXg2eEZE&index=12)
+    13. [Golang 陣列基礎 Array - 建立、賦值、巡迴陣列 By 彭彭](https://www.youtube.com/watch?v=9NhU4qNNMPQ&list=PL-g0fdC5RMbo9bdRzbKaCWYC2mXg2eEZE&index=13)
 
 # Setup
 ```bash
