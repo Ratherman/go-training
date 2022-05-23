@@ -1,5 +1,9 @@
 # REF
+* Documentation
+    1. [GIN](https://pkg.go.dev/github.com/gin-gonic/gin)
+    
 * GIN Web Framework
+    1. [Golang / Go Gin Framework Crash Course 01 | Getting Started](https://www.youtube.com/watch?v=qR0WnWL2o1Q&list=PL3eAkoh7fypr8zrkiygiY1e9osoqjoV9w)
 
 * Golang 入門教學課程
     1. [Golang 簡介,安裝,與快速開始 By 彭彭](https://www.youtube.com/watch?v=yi9zp8yFULk&list=PL-g0fdC5RMbo9bdRzbKaCWYC2mXg2eEZE&index=1&t=1s)
